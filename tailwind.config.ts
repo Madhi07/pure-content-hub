@@ -57,6 +57,17 @@ export default {
           border: "hsl(var(--sidebar-border))",
           ring: "hsl(var(--sidebar-ring))",
         },
+        // Brand Colors
+        "brand-blue": "hsl(var(--brand-blue))",
+        "brand-purple": "hsl(var(--brand-purple))",
+        // Surface Colors
+        "surface-primary": "hsl(var(--surface-primary))",
+        "surface-secondary": "hsl(var(--surface-secondary))",
+        "surface-tertiary": "hsl(var(--surface-tertiary))",
+        // Text Colors
+        "text-primary": "hsl(var(--text-primary))",
+        "text-secondary": "hsl(var(--text-secondary))",
+        "text-muted": "hsl(var(--text-muted))",
       },
       borderRadius: {
         lg: "var(--radius)",
